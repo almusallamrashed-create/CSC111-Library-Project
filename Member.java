@@ -1,4 +1,9 @@
-
+/*
+ * Group Members:
+ * RASHID ABDULLAH ALMUSALLAM  ID: 446102214
+ * MSHAL MUBARAK ALQAHTANI ID: 446104697
+ * ABDULFATTAH MOHAMMED ALSHAQI ID: 446102665
+ */
 public class Member {
 
     // --- Attributes ---
@@ -118,4 +123,5 @@ public class Member {
     public void setId(int id) { this.id = id; }
     public String getName() { return name; }
     public void setName(String name) { this.name = name; }
+
 }
