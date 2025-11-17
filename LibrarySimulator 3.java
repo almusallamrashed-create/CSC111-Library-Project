@@ -1,4 +1,9 @@
-
+/*
+ * Group Members:
+ * RASHID ABDULLAH ALMUSALLAM  ID: 446102214
+ * MSHAL MUBARAK ALQAHTANI ID: 446104697
+ * ABDULFATTAH MOHAMMED ALSHAQI ID: 446102665
+ */
 import java.util.Scanner;
 
 public class LibrarySimulator {
@@ -74,4 +79,5 @@ public class LibrarySimulator {
         
         input.close();
     }
+
 }
